@@ -33,8 +33,7 @@ Here are some ideas to get you started:
 <ul>
   <li> Software Engineering</li>
   <li> Cloud Computing</li>
-  <li> Data Science</li>
-  <li> Artificial Intelligence</li>
+  <li> DevOps</li>
   <li> Web Devolpment</li>
   
 </ul>
