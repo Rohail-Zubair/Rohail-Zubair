@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 I am currently a
 
-- Bachelor's Student Computer Science student at National University of Computing and Emerging Sciences (NUCES).
+- DevOps Engineer.
 
 
 ## 🏆 Achievements
@@ -31,10 +31,11 @@ Here are some ideas to get you started:
 
 ## 💡 <b>I'm interested in :</b>
 <ul>
-  <li> Software Engineering</li>
-  <li> Cloud Computing</li>
   <li> DevOps</li>
-  <li> Web Devolpment</li>
+  <li> Cloud Computing</li>
+  <li> Cloud Infrastructure</li>
+  <li> CI/CD Pipelines</li>
+  <li> Scalable and relaibel Solutions</li>
   
 </ul>
 
